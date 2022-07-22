@@ -8,7 +8,7 @@ Hi there, I'm Emre 👋
 I'm a Software Engineer 💻!
 </h2> 
 
-I am a Software Eng.
+
  
  ### 🤝 Connect with me:
 
