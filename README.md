@@ -42,4 +42,4 @@ I'm a Software Engineer 💻!
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=emre-serdar)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=emre-serdar&theme=dark&border_radius=14&border=DD681D&fire=DD0000)](https://git.io/streak-stats)
