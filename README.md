@@ -40,6 +40,9 @@ I'm a Software Engineer 💻!
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=emre-serdar&theme=dark&border_radius=14&border=DD681D&fire=DD0000)](https://git.io/streak-stats)
-
+<div>
+  <img class='img' style='height: auto; width: %40' src='https://streak-stats.demolab.com?user=emre-serdar&theme=dark&border_radius=14&border=DD681D&fire=DD0000' />
+  
+ 
+  <img class='img' style='height: auto; width: 40%; margin-left: 30px;' src='https://github-readme-stats.vercel.app/api/top-langs/?username=emre-serdar&layout=compact&hide=kotlin' />
+ </div>
